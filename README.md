@@ -1,10 +1,9 @@
-<h2>Hello there! I'm Syauqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-- 🏫 I'm a 1st year computer science student studying at BINUS University
 - 👀 I’m interested in software engineering, data science, investing, and business.
-- 🌱 I’m currently learning data structures, and web development
+- 🌱 I’m currently learning data structures, and web development.
 - 📝 I usually write study notes on <a href="https://syauqifrizman.com/cs">syauqifrizman.com/cs</a>
-- 📫 Visit my website: <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a>
+- 📫 Visit my personal blog: <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a>
 - ⚡ Fun fact: I ❤️ ₿
 
 <div>

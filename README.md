@@ -18,7 +18,7 @@
 
 <div>
   <h2>Github Status</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=syauqifrizman&layout=compact" alt="Syauqi Frizman's github stats"></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=syauqifrizman&show_icons=true&hide=stars&count_private=true&bg_color=ffffff" height="165"></a>
 </div>
 

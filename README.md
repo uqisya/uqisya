@@ -29,4 +29,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=uqisya&show_icons=true&hide=stars&count_private=true&theme=holi" height="165"></a>
 </div>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/uqisya?theme=auto&font=baloo&extension=activity)
+<h2>Leetcode Profile</h2>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/uqisya?ext=heatmap)

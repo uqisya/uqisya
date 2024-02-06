@@ -1,8 +1,12 @@
 <h2>Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 - 👀 I’m interested in software engineering, and investment.
-- 🌱 I’m currently studying mobile development (<img align="left" width="10px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> bangkit cohort 2024 batch 1), and backend development (using GO <img align="left" width="10px" src="https://e7.pngegg.com/pngimages/239/7/png-clipart-gopher-docker-computer-programming-clojure-others-snout-computer-programming.png" alt="golang">
+<br>
+- 🌱 I’m currently studying mobile development (<img align="left" width="20px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> bangkit cohort 2024 batch 1), and backend development (using GO <img align="left" width="20px" src="https://e7.pngegg.com/pngimages/239/7/png-clipart-gopher-docker-computer-programming-clojure-others-snout-computer-programming.png" alt="golang">
+<br>
 - 📫 Visit my personal website (under develop): <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a>
+<br>
 - ⚡ Add my discord username: uqisya
+<br>
 
 <div>
   <h2>Connect with me</h2>

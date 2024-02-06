@@ -1,5 +1,5 @@
 <h2>Hello there! I'm Syauqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p>Third Year Computer Science Student</p>
+<p>Third Year Computer Science Student at BINUS University</p>
 <ul>
   <li>
     👀 I’m interested in software engineering, and investment.

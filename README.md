@@ -21,14 +21,16 @@
   <a href="https://linkedin.com/in/syauqifrizman"><img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="syauqifrizman | LinkedIn"></a>
   <a href="https://twitter.com/uqisya_"><img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="uqisya_ | Twitter"></a>
 </div>
+<be>
 <br>
 
-<div>
-  <h2>Github Status</h2>
+<h2>Activities Status</h2>
+<details>
+  <summary>Github Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uqisya&layout=compact&theme=holi" alt="Syauqi Frizman's github stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=uqisya&show_icons=true&hide=stars&count_private=true&theme=holi" height="165"></a>
-</div>
-
-<h2>Leetcode Profile</h2>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/uqisya?ext=heatmap)
+</details>
+<details>
+  <summary>Leetcode Stats</summary>
+  <img src="https://leetcard.jacoblin.cool/uqisya?ext=heatmap" alt="Leetcode Stats">
+</details>

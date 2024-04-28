@@ -5,7 +5,8 @@
     👀 I’m interested in software engineering, and investment.
   </li>
   <li>
-    🌱 currently studying mobile development (<img width="12px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> bangkit cohort 2024 batch 1, using kotlin <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin">), and backend development (using GO <img width="12px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang">)
+    🌱 currently studying mobile development (<img width="12px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> bangkit cohort 2024 batch 1, using kotlin <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin">)
+<!--     , and backend development (using GO <img width="12px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang">) -->
   </li>
 <!--   <li>
     📫 Visit my personal website (under develop): <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a>    

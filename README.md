@@ -24,6 +24,9 @@
 </div>
 <be>
 <br>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>
 <details>

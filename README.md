@@ -1,20 +1,45 @@
 <h2>Hello there! I'm Syauqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p>Third Year Computer Science Student at BINUS University</p>
+
+```javascript
+const syauqi = {
+  bio: {
+    name: "✍️ M. Syauqi Frizman",
+    age: "👨‍💼 20-something",
+    location: "🏡 West Java, ID - Indonesia",
+    occupation: "👨‍💻 Student",
+  },
+  education: {
+    major: "Computer Science",
+    university: "🏫 BINUS University",
+    status: "Final Year - 7th Semester"
+  }
+}
+```
+
 <ul>
-  <li>
-    👀 I’m interested in software engineering, and investment.
+  <li>🌱 Current Focus:
+    <ul>
+      <li>Web Development (final year undergraduate project, mobile web-based): <a href="https://frontend-lms-smaga.vercel.app/">frontend-lms-smaga.vercel.app</a>   
+        <ul>
+          <li>Frontend: using React JS <img width="12px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs"></li>
+          <li>Backend: using Laravel PHP <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravelphp"></li>
+        </ul>
+      </li>
+      <li>
+        Mobile Development: <img width="12px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> Bangkit cohort 2024 batch 1, using Kotlin <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin">
+      </li>
+    </ul>
   </li>
-  <li>
-    🌱 currently studying mobile development (<img width="12px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> bangkit cohort 2024 batch 1, using kotlin <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin">)
-<!--     , and backend development (using GO <img width="12px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang">) -->
+  <li>👀 Interests:
+    <ul>
+      <li>Software Development</li>
+      <li>Data and Management for Tech Roles</li>
+    </ul>
   </li>
-<!--   <li>
-    📫 Visit my personal website (under develop): <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a>    
-  </li> -->
-  <li>
-    ⚡ my discord username: @uqisya
-  </li>
+  <li>📫 Visit my personal information: <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a></li>
+  <li>⚡ My Discord username: @uqisya</li>
 </ul>
+
 
 <div>
   <h2>Connect with me</h2>
@@ -22,7 +47,7 @@
   <a href="https://linkedin.com/in/syauqifrizman"><img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="syauqifrizman | LinkedIn"></a>
   <a href="https://twitter.com/uqisya_"><img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="uqisya_ | Twitter"></a>
 </div>
-<be>
+<br>
 <br>
   
 <!--START_SECTION:waka-->

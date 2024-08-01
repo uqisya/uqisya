@@ -11,7 +11,7 @@ const syauqi = {
   education: {
     major: "Computer Science",
     university: "🏫 BINUS University",
-    status: "Final Year - 7th Semester"
+    status: "Third Year - 6th Semester"
   }
 }
 ```

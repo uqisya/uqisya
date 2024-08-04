@@ -4,7 +4,6 @@
 const syauqi = {
   bio: {
     name: "✍️ M. Syauqi Frizman",
-    age: "👨‍💼 20-something",
     location: "🏡 West Java, ID - Indonesia",
     occupation: "👨‍💻 Student",
   },
@@ -32,8 +31,8 @@ const syauqi = {
   </li>
   <li>👀 Interests:
     <ul>
-      <li>Software Development</li>
-      <li>Data and Management for Tech Roles</li>
+      <li>Backend Development, and business</li>
+      <li>Investment</li>
     </ul>
   </li>
   <li>📫 Visit my personal information: <a href="https://about.syauqifrizman.com">about.syauqifrizman.com</a></li>

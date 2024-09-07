@@ -50,13 +50,11 @@ const syauqi = {
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.2 kB Used in GitHub's Storage 
- > 
-> 🏆 299 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +104,7 @@ go-class                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 06/09/2024 18:42:51 UTC
+ Last Updated on 07/09/2024 18:40:24 UTC
 <!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>

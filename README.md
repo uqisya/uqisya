@@ -50,7 +50,7 @@ const syauqi = {
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@ pacific                  1 hr 18 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 08/11/2024 09:35:18 UTC
+ Last Updated on 08/11/2024 18:43:29 UTC
 <!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>

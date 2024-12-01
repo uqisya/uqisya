@@ -50,8 +50,6 @@ const syauqi = {
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2021%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 131.3 kB Used in GitHub's Storage 
@@ -63,7 +61,7 @@ const syauqi = {
 > 🔑 5 Private Repositories 
  > 
 
- Last Updated on 30/11/2024 18:44:06 UTC
+ Last Updated on 01/12/2024 18:44:25 UTC
 <!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>

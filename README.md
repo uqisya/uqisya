@@ -4,13 +4,13 @@
 const syauqi = {
   bio: {
     name: "✍️ M. Syauqi Frizman",
-    location: "🏡 West Java, ID - Indonesia",
-    occupation: "👨‍💻 Student",
+    location: "🏡 North Jakarta, ID - Indonesia",
+    occupation: "👨‍💻 Software Engineer",
   },
   education: {
     major: "Computer Science",
     university: "🏫 BINUS University",
-    status: "Third Year - 6th Semester"
+    status: "Final Year - 7th Semester"
   }
 }
 ```
@@ -18,14 +18,19 @@ const syauqi = {
 <ul>
   <li>🌱 Current Focus:
     <ul>
-      <li>Web Development (final year undergraduate project, mobile web-based): <a href="https://frontend-lms-smaga.vercel.app/">frontend-lms-smaga.vercel.app</a>   
+      <li>
+        Software Engineering (intern at shipping company, web based semi-microservices)
+        <ul>
+          <li>Frontend: using Vue JS <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs"></li>
+          <li>Backend: using Golang <img width="12px" src="https://camo.githubusercontent.com/a72f086b878c2e74b90d5dbd3360e7a4aa132a219a662f4d83b7c243298fea4d/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67" alt="golang"></li>
+        </ul>
+      </li>
+      <li>
+        Web Development (final year undergraduate project, mobile web-based): <a href="https://frontend-lms-smaga.vercel.app/">frontend-lms-smaga.vercel.app</a>   
         <ul>
           <li>Frontend: using React JS <img width="12px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs"></li>
           <li>Backend: using Laravel PHP <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravelphp"></li>
         </ul>
-      </li>
-      <li>
-        Mobile Development: <img width="12px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" alt="bangkit"> Bangkit cohort 2024 batch 1, using Kotlin <img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin">
       </li>
     </ul>
   </li>

@@ -55,7 +55,9 @@ const syauqi = {
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C466%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C455%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -114,8 +116,31 @@ atlantic                 4 hrs 20 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 shipping-customer-fe     2 hrs 42 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.98 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:44:29 UTC
+```text
+⏱ AI Coding Time: 13 hrs 20 mins (54.18%)
+
+✍️ 1,940 lines written by AI, 161 lines written by hand (92.34% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 181 AI Prompts
+
+Gemini                   2,116 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.41 % 
+Sonnet                   690 lines           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.59 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.34% of written lines came from AI
+📄 Detailed Prompter — average 583 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 34.93% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 20:04:51 UTC
 <!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>

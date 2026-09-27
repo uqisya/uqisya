@@ -55,9 +55,9 @@ const syauqi = {
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C670%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C675%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-389%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,32 +86,32 @@ const syauqi = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Go</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">10 hrs 8 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="110" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">30.57%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">8 hrs 18 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="90" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">25.02%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 18 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="79" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">22.01%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 48 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="52" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">14.47%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 hr 36 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="17" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">4.83%</text></svg>
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">11 hrs 27 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="101" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">28.19%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Go</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">11 hrs 18 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="100" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">27.82%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">8 hrs 56 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="79" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">22.00%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 25 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="48" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">13.34%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 hr 36 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="14" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">3.95%</text></svg>
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Antigravity CLI</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">21 hrs 53 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="237" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">65.93%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">11 hrs 18 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="123" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">34.07%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Antigravity CLI</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">28 hrs 7 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="249" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">69.18%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">12 hrs 31 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="111" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">30.82%</text></svg>
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 24 mins (91.61%)
+⏱ AI Coding Time: 37 hrs 46 mins (92.89%)
 
-✍️ 3,861 lines written by AI, 242 lines written by hand (94.1% AI-written)
+✍️ 3,861 lines written by AI, 245 lines written by hand (94.03% AI-written)
 
-🔤 19,890,782 Input Tokens, 609,357 Output Tokens
+🔤 22,985,735 Input Tokens, 726,887 Output Tokens
 
-💵 $17.20 Estimated AI Cost This Week
+💵 $19.97 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 479 AI Prompts
+🧠 38 AI Sessions, 561 AI Prompts
 
 <svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Gemini</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3,861 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.1% of written lines came from AI
-📝 Concise Prompter — average 333 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 13.26% of changed lines were hand-edited
+🤖 AI-Driven — 94.03% of written lines came from AI
+📝 Concise Prompter — average 326 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 13.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -121,7 +121,7 @@ const syauqi = {
 
 
 
- Last Updated on 26/09/2026 21:24:24 UTC
+ Last Updated on 27/09/2026 21:32:19 UTC
 <!--END_SECTION:waka-->
 
 <h2>Activities Status</h2>

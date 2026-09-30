@@ -18,7 +18,7 @@ jobs:
           SYMBOL_VERSION: "2"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT: "True"
